@@ -20,4 +20,6 @@ On this home page, you will find links to the different available DCP apps:
 
 - [DCP Admin](xref:CloudAdminApp)
 
+- [DataMiner Teams bot](xref:DataMiner_Teams_bot)
+
 The home page also lists the DataMiner Systems that have been [connected to the cloud](xref:Connecting_your_DataMiner_System_to_the_cloud), provides links to different URLs for remote access, and allows you to [link your DCP and DataMiner account](xref:Linking_your_DataMiner_and_DCP_account).
